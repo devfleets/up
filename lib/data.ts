@@ -96,7 +96,7 @@ export const siteData = {
       title: "व्हिडिओ गॅलरी",
       videos: [
         {
-          title: "गणेश विसर्जन 2024 - तांबी जोगेश्वरी मंडळ",
+          title: "गणेश विसर्जन 2024 - अखिल मंडई मंडळ",
           duration: "8:45",
           views: "15K+ views",
           date: "17 सप्टेंबर 2024",
@@ -183,7 +183,7 @@ export const siteData = {
           status: "pending",
           participants: "60+ कलाकार",
         },
-      ],
+      ], 
     },
     pastEvents: {
       title: "भूतकाळातील कार्यक्रम",
@@ -191,11 +191,11 @@ export const siteData = {
         {
           title: "गणेश विसर्जन 2024",
           date: "17 सप्टेंबर 2024",
-          location: "तांबी जोगेश्वरी मंडळ",
-          mandal: "श्री गणेश मंडळ",
+          location: " अलका चौक, बैलबाग चौक, गणपती चौक, पुणे",
+          mandal: "अखिल मंडई मंडळ",
           description: "गणपती बाप्पाच्या विसर्जनात भव्य सहभाग",
-          image: "/placeholder.svg?height=300&width=400",
-          highlights: ["5000+ प्रेक्षक", "8 तास कार्यक्रम", "मीडिया कव्हरेज"],
+          image: "/images/yelkoth.jpg?height=300&width=400",
+          highlights: ["5000+ प्रेक्षक", "8 तास कार्यक्रम", "यळकोट यळकोट..जय मल्हार"],
           rating: 5,
         },
         {
