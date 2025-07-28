@@ -1,9 +1,9 @@
 export const siteData = {
   // Metadata for the entire application (used in app/layout.tsx)
   metadata: {
-    title: "श्री गणेश धोल ताशा पथक | Dhol Tasha Pathak Mumbai",
+    title: "शिवगर्जना ढोल-ताशा ध्वज पथक, पुणे | Shivagarjana Dhol Tasha Dhwaj Pathak, Pune",
     description:
-      "महाराष्ट्राच्या पारंपरिक संगीताचे संरक्षण करणारा धोल ताशा पथक. गणेश उत्सव, शिव जयंती आणि सांस्कृतिक कार्यक्रमांसाठी बुकिंग उपलब्ध.",
+      "महाराष्ट्राच्या पारंपरिक संगीताचे संरक्षण करणाराढोल-ताशा ध्वज पथक. गणेशोत्सव, शिव जयंती आणि सांस्कृतिक कार्यक्रमांसाठी बुकिंग उपलब्ध.",
     keywords: "dhol tasha, pathak, mumbai, ganesh utsav, maharashtra culture, traditional music",
   },
   // Content for the Footer component (components/layout/footer.tsx)
@@ -11,9 +11,8 @@ export const siteData = {
     description: "महाराष्ट्राच्या समृद्ध संस्कृतीचा वारसा जपणारा आणि पुढच्या पिढीला प्रेरणा देणारा पथक.",
     quickLinksTitle: "द्रुत दुवे",
     quickLinks: [
-     
+
       { name: "आमच्याबद्दल", href: "/about" },
-      { name: "आमची टीम", href: "/team" },
       { name: "कार्यक्रम", href: "/events" },
       { name: "मीडिया", href: "/media" },
     ],
@@ -22,23 +21,22 @@ export const siteData = {
     contactInfoTitle: "संपर्क माहिती",
     addressLine1: "123, संस्कृती भवन",
     addressLine2: "दादर पूर्व, मुंबई - 400014",
-    phone: "+91 98765 43210",
+    phone: "+91 97634 22233",
     email: "info@shivgarjana.com",
-    copyright: `© ${new Date().getFullYear()} शिवगर्जना धोल ताशा पथक. सर्व हक्क राखीव.`,
+    copyright: `© ${new Date().getFullYear()} शिवगर्जना ढोल-ताशा ध्वज पथक, पुणे. सर्व हक्क राखीव.`,
     privacyPolicy: { name: "गोपनीयता धोरण", href: "/privacy" },
     termsAndConditions: { name: "नियम आणि अटी", href: "/terms" },
   },
   // Content for the Header component (components/layout/header.tsx)
   header: {
     navigation: [
-    
+
       { name: "आमच्याबद्दल", href: "/about" },
-      { name: "आमची टीम", href: "/team" },
       { name: "मीडिया", href: "/media" },
       { name: "कार्यक्रम", href: "/events" },
       { name: "संपर्क", href: "/contact" },
     ],
-    phoneNumber: "+91 98765 43210",
+    phoneNumber: "+91 97634 22233",
   },
   // Content for the Media page (app/media/page.tsx)
   mediaPage: {
