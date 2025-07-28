@@ -173,11 +173,11 @@ export const siteData = {
           participants: "40+ कलाकार",
         },
         {
-          title: "गुडी पाडवा उत्सव 2025",
+          title: "तुळशीबाग महागणपती आगमन सोहळा",
           date: "30 मार्च 2025",
           time: "सकाळी 9:00",
-          location: "दादर चौपाटी",
-          mandal: "नववर्ष मंडळ",
+          location: "तुळशीबाग",
+          mandal: "तुळशीबाग महागणपती मंडळ",
           description: "मराठी नववर्षाच्या स्वागतासाठी पारंपरिक कार्यक्रम",
           image: "/images/dhwajwale.jpg?height=300&width=400",
           status: "pending",
@@ -209,7 +209,7 @@ export const siteData = {
           rating: 5,
         },
         {
-          title: "नवरात्री महोत्सव 2024",
+          title: "नवरात्रोत्सव 2024",
           date: "15 अक्टोबर 2024",
           location: "अंधेरी स्पोर्ट्स क्लब",
           mandal: "दुर्गा मंडळ अंधेरी",
