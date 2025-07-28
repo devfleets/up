@@ -53,8 +53,8 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <h3 className="font-bold text-lg text-red-800 mb-2">{contactPage.contactInfo.phone.title}</h3>
-                        <p className="text-gray-700 mb-1">{contactPage.contactInfo.phone.main}</p>
                         <p className="text-gray-700 mb-1">{contactPage.contactInfo.phone.president}</p>
+                        <p className="text-gray-700 mb-1">{contactPage.contactInfo.phone.main}</p>
                         <p className="text-gray-700">{contactPage.contactInfo.phone.emergency}</p>
                       </div>
                     </div>
