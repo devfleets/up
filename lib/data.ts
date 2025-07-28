@@ -72,7 +72,7 @@ export const siteData = {
         {
           title: "गुडी पाडवा उत्सव",
           count: "40+ फोटो",
-          date: "एप्रिल 2024",
+          date: "7 एप्रिल 2024",
           location: "दादर चौपाटी",
           thumbnail: "/placeholder.svg?height=300&width=400",
         },
