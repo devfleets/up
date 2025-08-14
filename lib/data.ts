@@ -244,7 +244,7 @@ export const siteData = {
           location: "पंढरपूर",
           mandal: "विठ्ठल भक्त मंडळ",
           description: "पंढरपूर वारीत सहभाग",
-          image: "/placeholder.svg?height=300&width=400",
+          image: "/images/mazhar.jpg?height=300&width=400",
           highlights: ["पंढरपूर यात्रा", "21 दिवस वारी", "लाखो भाविक"],
           rating: 5,
         },
